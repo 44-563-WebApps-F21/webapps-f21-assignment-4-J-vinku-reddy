@@ -33,3 +33,7 @@ td{
 tr:nth-child(even){
     background-color:grey ;
 }
+.goring:hover{
+    text-shadow: 2px 3px 5px greenyellow;
+    border: indigo 20px solid;
+}
