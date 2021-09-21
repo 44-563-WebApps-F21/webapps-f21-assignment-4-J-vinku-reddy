@@ -15,3 +15,21 @@
     color: wheat;
     font-family: 'Courier New', Courier, monospace;
 }
+table{
+    border: 110px;
+    color: red;
+    text-align: left;
+    border-collapse: collapse;
+    padding: 110px;
+    width: 170px;
+    size: 200px;
+    
+}
+td{
+    border: 1px solid rgb(211, 195, 195);
+    color: greenyellow;
+    text-align: right;
+}
+tr:nth-child(even){
+    background-color:grey ;
+}
