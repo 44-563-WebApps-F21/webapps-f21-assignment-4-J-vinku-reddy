@@ -1,0 +1,17 @@
+.speech{ font-family: 'Times New Roman', Times, serif; font-size: 20px; color: black;}
+.stage-direction{ font-family: monospace; font-size: 20px; color: black;}
+.name{ font-family: 'Times New Roman', Times, serif;font-size: 20px; color: black;}
+.stage-direction{ background-color: chartreuse;}
+.stage-direction:hover{ background-color: blue;color: brown;}
+
+.goring{
+    color: burlywood;
+    font-family: serif;
+}
+.james{
+    color: violet;
+}
+.caversham{
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+}
